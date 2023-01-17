@@ -62,3 +62,22 @@
     margin: 0 600px;
     margin-top: 50px;
 }
+.contacts{
+    display: flex;
+    background-color: black;
+}
+.icons{
+    display: flex;
+    margin-top: 20px;
+}
+.footer-title{
+    margin-bottom: 20px;
+}
+.footer-description{
+    margin-bottom: 20px;
+    align-items: center;
+    margin-right: 500px;
+}
+.phone{
+    margin-top: 10px;
+}
