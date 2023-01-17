@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header and navigation style */
+.text-primary{
+    background: #db7f10;
+}
+
+.btn-primary{
+    color:rgba(0, 0, 0, 1);
+    font-weight:600;
+    font-size:20px ;
+    border:0;
+    padding:21 ;
+    height:23 ;
+    width: 109;
+    border-radius: 5px;
+    background: #9dcc0f;
+    margin: 0 200px;
+}
+.title{
+    display: flex;
+    margin: 0 ;
+    align-items: center;
+}
+.banner-img{
+    width: 1000px;;
+}
+.img{
+    margin:0 ;
+}
+.description{
+    display: flex;
+}
+.detail{
+    margin-top: 400px;
+}
+.info{
+    display: flex;
+    gap: 100px;
+    margin: 0 400px;
+    justify-content: space-around;
+}
+.section-title{
+    margin-left: 750px;
+    margin-bottom: 100px;
+}
+.about-plans{
+    align-items: center;
+}
+.images-watch{
+   margin: 0 600px;
+   margin-top: 50px;
+}
+.motivation{
+    display: flex;
+    
+}
+.call{
+    margin: 0 600px;
+    margin-top: 50px;
+}
